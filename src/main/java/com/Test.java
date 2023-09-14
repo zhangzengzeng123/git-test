@@ -5,5 +5,6 @@ public class Test {
         System.out.println("github test");
         System.out.println("hot-fix test merge");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
