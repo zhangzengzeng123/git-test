@@ -7,5 +7,6 @@ public class Test {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("github pull test");
+        System.out.println("github pull test1");
     }
 }
